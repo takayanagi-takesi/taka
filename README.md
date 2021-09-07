@@ -17,3 +17,13 @@ https://user-images.githubusercontent.com/75218115/132340683-35ce2c5b-04fb-4e6c-
 - CSS
 - Server:Heroku
 - DB:PostgreSQL
+
+## 機能一覧
+- アカウント登録機能
+- アカウント削除機能
+- ログイン機能
+- ゲストユーザーログイン機能
+- 教材検索機能
+- 教材の読破/視聴済みボタン
+- ページネーション機能
+- 
