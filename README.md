@@ -13,8 +13,6 @@ https://user-images.githubusercontent.com/75218115/132340683-35ce2c5b-04fb-4e6c-
 ## 開発環境
 - Ruby 2.7.2
 - Ruby on Rails 6.1.1
-- JavaScript
-- CSS
 - Server:Heroku
 - DB:PostgreSQL
 
