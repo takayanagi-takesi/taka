@@ -19,11 +19,14 @@ https://user-images.githubusercontent.com/75218115/132340683-35ce2c5b-04fb-4e6c-
 - DB:PostgreSQL
 
 ## 機能一覧
-- アカウント登録機能
-- アカウント削除機能
+- アカウント登録機能(device)
+- アカウント削除機能(device)
 - ログイン機能
 - ゲストユーザーログイン機能
-- 教材検索機能
-- 教材の読破/視聴済みボタン
-- ページネーション機能
-- 
+- 教材検索機能(ransac)
+- 教材の読破/視聴済みボタン(Ajax)
+- ページネーション機能(kaminari)
+- TOPページ戻る機能(jQuery,JavaScript)
+
+## アピールポイント
+レスポンシブ対応(MediaQuery)
